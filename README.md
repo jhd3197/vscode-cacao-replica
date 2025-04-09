@@ -3,6 +3,8 @@
 ## Overview
 This project is a lightweight replica of Visual Studio Code, built using the [Cacao](https://github.com/jhd3197/Cacao). It demonstrates how to create a desktop-like application with a file explorer, code editor, and syntax highlighting.
 
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/fd95e9c6-74b0-47e9-81ee-36ef69fac313" />
+
 ## Features
 - **File Explorer**: Browse and select files from the workspace directory.
 - **Code Editor**: Edit files with syntax highlighting for various languages.
@@ -64,6 +66,7 @@ python main.py --mode web
 │       ├── components.py
 │       └── utils.py
 ```
+
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
